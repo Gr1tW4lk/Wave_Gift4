@@ -1,10 +1,10 @@
 // Admin ID
-const ADMIN_ID = 7867539237;
+const ADMIN_ID = 7728148157;
 let currentUser = null;
 let isAdmin = false;
 
 // Merchant wallet for manual payments
-const MERCHANT_WALLET = 'UQDy5hhPvhwcNY9g-lP-nkjdmx4rAVZGFEnhOKzdF-JcIiDW';
+const MERCHANT_WALLET = '8417659328:AAFNp89cN4LJWTQ121wtoaR-P0vSh43DYYA';
 
 // Current item being purchased
 let currentPurchaseItem = null;
